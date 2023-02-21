@@ -119,7 +119,7 @@
   font-size: 10px;
   line-height: 24px;
   padding-left: 32px;
-  background: url('../img/delivery.png') left/24px no-repeat;
+  background: url('../../assets/img/delivery.png') left/24px no-repeat;
 }
 
 .order__close {
