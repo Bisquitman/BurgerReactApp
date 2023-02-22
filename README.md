@@ -35,3 +35,7 @@
 - [classNames](https://www.npmjs.com/package/classnames)
 
 - [Скачать исходники](https://fs09.getcourse.ru/fileservice/file/download/a/251231/sc/237/h/8a864d4f4d08eca4f2d3d09a380b5b51.zip)
+
+- [Данные для 2 урока](https://fs11.getcourse.ru/fileservice/file/download/a/251231/sc/244/h/caa9880261ba1f1f62ed8562aa5d7d97.zip)
+
+- [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
