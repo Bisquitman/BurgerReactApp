@@ -1,12 +1,12 @@
 import {Count} from "../Count/Count";
 import style from './OrderGoods.module.css';
 
-export const OrderGoods = () => (
+export const OrderGoods = (props) => (
   <li className={style.item}>
-    <img className={style.image} src="assets/img/burger_1.jpg" alt="Супер сырный" />
+    <img className={style.image} src="assets/img/burger_1.jpg" alt={props.item}/>
 
     <div className={style.goods}>
-      <h3 className={style.title}>Супер сырный</h3>
+      <h3 className={style.title}>{props.item}</h3>
 
       <p className={style.weight}>512г</p>
 
@@ -15,6 +15,6 @@ export const OrderGoods = () => (
       </p>
     </div>
 
-    <Count count={99}/>
+    <Count count={1}/>
   </li>
 );

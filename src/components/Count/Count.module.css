@@ -34,6 +34,10 @@
     width: 10px;
   }
 
+  .minus:disabled {
+    cursor: default;
+  }
+
   .plus {
     width: 10px;
   }
