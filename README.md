@@ -45,3 +45,5 @@
 - [Исходники для модалки](https://fs07.getcourse.ru/fileservice/file/download/a/251231/sc/47/h/3ff087ac3f1e8d9600062004b7852a68.zip)
 
 - [Адрес для отправки заказа](https://cloudy-slash-rubidium.glitch.me/api/order)
+
+- [Формы в React с валидацией](https://formik.org/)
