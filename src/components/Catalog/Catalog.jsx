@@ -26,13 +26,17 @@ export const Catalog = () => {
           <h2 className={style.title}>{category[activeCategory]?.rus}</h2>
 
           <div className={style.wrap_list}>
-            <ul className={style.list}>
-              {products.map((goodsItem) => (
-                <li key={goodsItem.id} className={style.item}>
-                  <CatalogProduct item={goodsItem}/>
-                </li>
-              ))}
-            </ul>
+            {products.length ?
+              (<ul className={style.list}>
+                {products.map((goodsItem) => (
+                  <li key={goodsItem.id} className={style.item}>
+                    <CatalogProduct item={goodsItem}/>
+                  </li>
+                ))}
+              </ul>)
+              : (<p className={style.empty}>К сожалению товаров данной категории нет...</p>)
+            }
+
           </div>
         </div>
       </Container>
