@@ -39,3 +39,7 @@
 - [Данные для 2 урока](https://fs11.getcourse.ru/fileservice/file/download/a/251231/sc/244/h/caa9880261ba1f1f62ed8562aa5d7d97.zip)
 
 - [https://redux-toolkit.js.org/](https://redux-toolkit.js.org/)
+ 
+- [API](https://github.com/maksim-leskin/api_your_meal)
+
+- [Исходники для модалки](https://fs07.getcourse.ru/fileservice/file/download/a/251231/sc/47/h/3ff087ac3f1e8d9600062004b7852a68.zip)
