@@ -53,8 +53,8 @@ export const Footer = () => (
 
             <div className={style.development}>
               <p>© YouMeal, 2022</p>
-              <p>Design: <a href="#">Anastasia Ilina</a></p>
-              <p>Developer: <a href="mailto:maksim.leskin@methed.ru">Maksim Leskin</a></p>
+              <p>Design: <a href="https://t.me/Mrshmallowww">Anastasia Ilina</a></p>
+              <p>Developer: <a href="https://github.com/Bisquitman/BurgerReactApp">Bisquitman</a></p>
             </div>
         </div>
       </div>
