@@ -47,3 +47,10 @@
 - [Адрес для отправки заказа](https://cloudy-slash-rubidium.glitch.me/api/order)
 
 - [Формы в React с валидацией](https://formik.org/)
+
+#### Для выгрузки проекта на хостинг
+
+- [Netlify](https://www.netlify.com/)
+- [Glitch](https://glitch.com/)
+- [Api Your Meal](https://github.com/maksim-leskin/api_your_meal)
+- [Vercel](https://vercel.com/)
